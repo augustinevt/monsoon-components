@@ -9,4 +9,4 @@ export const ImagePlaceholder = components.ImagePlaceholder;
 export const Table = components.Table;
 export const Input = components.Input;
 export const Form = components.Form;
-export const Card = components.Card;
+export const Card = components.Card;export const FileUploader = components.FileUploader;

@@ -1,0 +1,38 @@
+.file-uploader__wrapper {
+  border-radius: 5px;
+  // display: flex;
+  // border: solid;
+  width: 100%;
+  flexwrap: wrap;
+
+  .button {
+    // width: 100%;
+    height: 30px;
+  }
+}
+
+.file-uploader__filename {
+
+}
+
+.file-uploader__filenames-display {
+  width: 100%;
+  // background: #eee;
+}
+
+.file-display {
+  // border: 1px solid grey;
+  border-radius: 5px;
+  display: flex;
+  padding: 5px;
+  margin: 5px;
+  background: white;
+  background: #eee;
+  color: grey;
+
+  &__remove {
+    margin-left: auto;
+    width: 20px;
+    padding-left: 10px;
+  }
+}
